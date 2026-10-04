@@ -6,7 +6,7 @@ Official installers for [GrabSilo Desktop](https://grabsilo.com/desktop).
 
 | Platform | Version | Installer |
 | --- | --- | --- |
-| Windows x64 | 0.1.5 | [Download EXE](https://github.com/grabsilo/grabsilo-desktop-downloads/releases/download/v0.1.5/GrabSilo-Desktop-Setup-0.1.5.exe) |
+| Windows x64 | 0.1.6 | [Download EXE](https://github.com/grabsilo/grabsilo-desktop-downloads/releases/download/v0.1.6/GrabSilo-Desktop-Setup-0.1.6.exe) |
 | Mac Apple Silicon (M-series), macOS 13+ | 0.1.6 Preview | [Download DMG](https://github.com/grabsilo/grabsilo-desktop-downloads/releases/download/v0.1.6-mac-preview/GrabSilo-Desktop-0.1.6-mac-arm64-preview.dmg) |
 | Mac Intel, macOS 13+ | 0.1.6 Preview | [Download DMG](https://github.com/grabsilo/grabsilo-desktop-downloads/releases/download/v0.1.6-mac-preview/GrabSilo-Desktop-0.1.6-mac-x64-preview.dmg) |
 
@@ -18,7 +18,7 @@ The Mac builds are for testing. They are ad hoc signed and have not been Apple n
 
 ## Checksums and release notes
 
-- [Windows release and SHA256SUMS.txt](https://github.com/grabsilo/grabsilo-desktop-downloads/releases/tag/v0.1.5)
+- [Windows release and SHA256SUMS.txt](https://github.com/grabsilo/grabsilo-desktop-downloads/releases/tag/v0.1.6)
 - [Mac preview release and SHA256SUMS.txt](https://github.com/grabsilo/grabsilo-desktop-downloads/releases/tag/v0.1.6-mac-preview)
 - [All releases](https://github.com/grabsilo/grabsilo-desktop-downloads/releases)
 
